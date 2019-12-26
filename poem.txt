@@ -1,4 +1,4 @@
-The Poem
+The Poem and the Unicorn
 
 Purple
 Pink
@@ -6,5 +6,6 @@ Orange
 Blue
 Green
 Yellow
+Unicorn
 Red
-These are the colors of the rainbow
+These are the colors of the rainbow and the Unicorn
